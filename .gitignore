@@ -137,3 +137,10 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# IDE-related files and folders
+.vscode/
+.idea/
+.cursor/
+.cursorrules
+.cursorignore
